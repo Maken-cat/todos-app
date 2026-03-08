@@ -68,6 +68,6 @@ while True:
 
     else:
         print("invalid input")
-print("cya!")
+print("Cya soon, bye!")
 
 
